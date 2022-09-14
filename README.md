@@ -61,4 +61,4 @@ The admin can:
 - If you click on a class, you’ll see the people enrolled
 - Cancellations - click on an “cancel” next to the client name
 - If you click on a client, you can see their details
-- Cancellation - click on an “X” next to the class name
+- Class Cancellation - click on an “X” next to the class name
